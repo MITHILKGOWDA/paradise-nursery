@@ -13,7 +13,7 @@ body {
 /* LANDING */
 .landing {
   height: 100vh;
-  background: url('images/P1.png') center/cover no-repeat;
+  background: url('images/p1.png') center/cover no-repeat;
 }
 
 .overlay {
@@ -127,3 +127,4 @@ nav a {
   border-radius: 12px;
   margin-top: 20px;
 }
+
