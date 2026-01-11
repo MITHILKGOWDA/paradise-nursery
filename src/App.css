@@ -1,0 +1,8 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.landing {
+  background-image: url('/background.png');
+  height: 100vh;
+}
